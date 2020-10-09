@@ -1,0 +1,13 @@
+{
+
+    "version": "1.0",
+    "token": "BOT_TOKEN_HERE",
+    
+    "prefixes": ["!"],
+    "join_message": "Hallo , Saya discord bot! :heart:",
+    
+    "currently": "playing|listening|watching|streaming",
+    "playing_status": "cool status here",
+    "status": "online|dnd|idle|offline"
+    
+}
